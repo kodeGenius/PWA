@@ -11,6 +11,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+// callback function
 
 self.Comlink = (function () {
     const uid = Math.floor(Math.random() * Number.MAX_SAFE_INTEGER);
